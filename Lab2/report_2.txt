@@ -1,0 +1,16 @@
+curve_circle.wrl: 
+	to left: a circle
+	to right: its arc
+	up: a cirle with low resolution.
+	down: a circle with low resolution and multiple "spins"
+curve_converted.wrl:
+	explicitly defined curve y=sin(x) converted to parametric.
+curve_ellipse.wrl:
+	left: an ellipse.
+	right: its arc.
+curve_helix.wrl:
+	two helixes intertwined.
+curve_spiral.wrl:
+	a simple spiral, angle = [0, 4pi].
+curve_straigt_line.wrl:
+	a small segment of a straight line.

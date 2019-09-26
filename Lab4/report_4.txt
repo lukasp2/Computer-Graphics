@@ -1,0 +1,13 @@
+combined_shapes.wrl:
+	some flying creature with a horn.
+	
+	A half plane is used to make its belly flat.
+	A cylinder is used to "cut" the cone into the right size to
+	make a horn. 
+	An ellipsoid is used to remove a part of its body to make a mouth.
+	
+	The shape should render within 5 seconds, at least it does on my computer. 
+	The other shapes not included in the lab requirements may of course slow down 
+	the process a tad.
+
+the other files are just for testing and playing around.

@@ -1,0 +1,26 @@
+Shape {
+geometry Circle {
+	 radius 2
+}
+
+appearance Appearance {
+material Material {
+	diffuseColor 1 1 0
+}
+}
+}
+
+FShape {
+geometry FGeometry {
+	definition "x=cos(u); y=sin(v);"
+	resolution [6 6]
+}
+
+appearance FAppearance {
+material FMaterial {
+	diffuseColor "r=0; g=1; b=0;"
+}
+}
+}
+
+definition "x=u^2; y=v^2; z=w^2; x - y - z - 1 = 0"

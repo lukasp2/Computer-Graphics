@@ -1,0 +1,25 @@
+3D_plane.wrl:
+	four planes existing in 3 dimensions.	
+3D_triangle.wrl: 
+	a triangle existing in 3 dimensions.
+bilinear_surface.wrl: 
+	a bilinear surface defined using 4 points.
+cone.wrl:
+	a hollow cone.
+ellipsoid.wrl:
+	a squashed sphere.
+
+solid_box.wrl:
+	a solid box, parameter w introduced for defining solids.
+solid_cone.wrl:
+	solid cone.
+solid_cylinder.wrl:
+	solid cylider.
+solid_sphere.wrl:
+	solid sphere
+	
+solid_sweeping.wrl:
+	a cool shape.
+	
+sphere.wrl
+	surface of a sphere, not solid.

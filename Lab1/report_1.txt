@@ -1,0 +1,3 @@
+box.wrl: a 3D cube.
+hexagon.wrl: a hexagon.
+polygon_changed.wrl: the polygon, but changed.

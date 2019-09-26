@@ -1,0 +1,19 @@
+Formula_number_1: 30 - 26 = 4.
+(actually number 80 on the list if I remember correctly, but 
+-50 since the list started at 50, so 30).
+
+Formula_number_2: 4 + 3 = 7.
+
+Form_1_surface.wrl:
+	number 4 of the surfaces on the list.
+
+Form_2_surface.wrl:
+	number 7 of the surfaces on the list, but where
+	the definition of x is switched with that of z to
+	make the morphing cooler. 
+
+forms_morphing: 
+	the two forms morphing from one to the other.
+	
+own_morphing.wrl:
+	a morph between a cone and an ellipsoid.
